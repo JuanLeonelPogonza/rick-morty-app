@@ -1,1 +1,1 @@
-Rick And Morty App
+Rick & Morty App
